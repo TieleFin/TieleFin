@@ -7,6 +7,7 @@
 - 🎓 Bacharel em Arquitetura e Urbanismo pela [Universidade de Caxias do Sul](https://www.ucs.br/site)
 - 🖥️ Utilizando:
   
-   * JavaScript
-   * NodeJs
-   * Git
+   * JavaScript;
+   * VS Code;
+   * Node Js;
+   * Git.
