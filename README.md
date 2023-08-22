@@ -1,12 +1,11 @@
 ## Tiele Frare Fin
 
 
-- 👀 Me interessa estar em constante aprendizado
-- 🤍 Mãe do Arthur, com quem eu aprendo a ser uma pessoa melhor a cada dia
+- Gaúcha que adora o inverno e nos momentos de descanso aprecia ficar com a família e curtir filmes e séries.
 - 🌱 Cursando Desenvolvimento de Software com Foco em Back End na [Cubos Academy](https://cubos.academy/)
 - Em transição de carreira para a maravilhosa área da tecnologia.
 - 🎓 Bacharel em Arquitetura e Urbanismo pela [Universidade de Caxias do Sul](https://www.ucs.br/site)
-- 🖥️ Utilizando:
+- 🖥️ Tecnologias utilizadas em programação:
   
    * Javascript;
    * VS Code;
