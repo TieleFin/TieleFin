@@ -9,4 +9,4 @@
 
 ___
 
- ![](./icons8-javascript-50.png)
+ ![](./icons8-javascript-50.png)   ![](./icons8-nodejs-50.png)  ![](./icons8-vs-code-50.png)  ![](./icons8-sql-50.png)  ![](./icons8-git-50.png)  ![](./icons8-github-50.png)
